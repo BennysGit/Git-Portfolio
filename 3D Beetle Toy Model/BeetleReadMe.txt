@@ -1,0 +1,1 @@
+Within this folder is the .obj file of a toy beetle I designed using Maya, along with pictures of different angles to show the beetle if the file cannot be opened. 
