@@ -1,0 +1,1 @@
+This folder contains the two full 3D rendered scenes I made in blender. After compiling the frames, I designed audio in Audacity and edited them in via Microsoft Clipchamp.
